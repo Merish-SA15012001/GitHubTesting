@@ -16,6 +16,7 @@
 		1A1454FD28D8685000A1AF40 /* GitHubTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1454FC28D8685000A1AF40 /* GitHubTestingTests.swift */; };
 		1A14550728D8685000A1AF40 /* GitHubTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A14550628D8685000A1AF40 /* GitHubTestingUITests.swift */; };
 		1A14550928D8685000A1AF40 /* GitHubTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A14550828D8685000A1AF40 /* GitHubTestingUITestsLaunchTests.swift */; };
+		1A14551828D872F900A1AF40 /* GitHubTesting in Resources */ = {isa = PBXBuildFile; fileRef = 1A14551728D872F800A1AF40 /* GitHubTesting */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1A14550228D8685000A1AF40 /* GitHubTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHubTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A14550628D8685000A1AF40 /* GitHubTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubTestingUITests.swift; sourceTree = "<group>"; };
 		1A14550828D8685000A1AF40 /* GitHubTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1A14551728D872F800A1AF40 /* GitHubTesting */ = {isa = PBXFileReference; lastKnownFileType = folder; name = GitHubTesting; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1A1454EE28D8685000A1AF40 /* Assets.xcassets */,
 				1A1454F028D8685000A1AF40 /* LaunchScreen.storyboard */,
 				1A1454F328D8685000A1AF40 /* Info.plist */,
+				1A14551728D872F800A1AF40 /* GitHubTesting */,
 			);
 			path = GitHubTesting;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				1A1454F228D8685000A1AF40 /* LaunchScreen.storyboard in Resources */,
 				1A1454EF28D8685000A1AF40 /* Assets.xcassets in Resources */,
+				1A14551828D872F900A1AF40 /* GitHubTesting in Resources */,
 				1A1454ED28D8684E00A1AF40 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
